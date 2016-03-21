@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hiwire JS Interface</string>
+    <string name="realapps_url">http://mapsutra.com/upgrade/index.jsp</string>
+    <string name="android_bridge_demo_url">http://data.com.sg/_ss/_androidBridge.html</string>
+    <string name="javascript_object_name">Android</string>
+</resources>

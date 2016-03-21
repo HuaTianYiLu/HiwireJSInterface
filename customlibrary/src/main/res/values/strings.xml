@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Library</string>
+    <string name="_hw_alert_dialog_title">Alert</string>
+    <string name="_hw_alert_dialog_positive_button_label">OK</string>
+</resources>
